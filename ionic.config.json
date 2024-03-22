@@ -1,0 +1,7 @@
+{
+  "name": "RTDB_IoT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
